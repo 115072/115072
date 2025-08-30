@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am an Applied Informatics student at the Faculty of Electrical Engineering and Informatics, STU.  
+- 💻 Strong foundation in programming (Java, OOP, C++, C, Python) and web development  
+- 🗄️ Knowledge of databases, computer networks, and hardware  
+- 🎨 Experience with 3D modeling, video editing, and Photoshop  
+- 🚀 Currently learning Express.js and full-stack development  
+
+I’m passionate about continuous learning and looking for opportunities to apply my skills in real projects.
+
 <!--
 **115072/115072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
