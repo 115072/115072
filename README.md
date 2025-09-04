@@ -34,7 +34,7 @@ I’m passionate about continuous learning and looking for opportunities to appl
 ## 🌐 Languages I Speak
 ![Hungarian](https://img.shields.io/badge/Hungarian-Native-red?style=for-the-badge&labelColor=gray)
 ![Slovak](https://img.shields.io/badge/Slovak-Fluent-blue?style=for-the-badge&labelColor=gray)
-![English](https://img.shields.io/badge/English-Fluent-green?style=for-the-badge&labelColor=gray)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&labelColor=gray)
 ![German](https://img.shields.io/badge/German-Learning-yellow?style=for-the-badge&labelColor=gray)
 
 
